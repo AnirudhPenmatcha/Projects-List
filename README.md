@@ -23,6 +23,11 @@
     - Created a Dask based cluster in AWS using Docker that can auto-scale and maintain persistent storage
     - Conducted a comparative analysis of XGBoost algorithm’s performance on Dask based and Vanilla based setups
     - Observed highest reduction at 71% for parallelizing tasks using Dask integrated approach with optimal configurations
+   My Role in this Project:
+    - Studied the impact of sparse embeddings on node clustering, classification & prediction tasks on a Graph.
+    - Created embeddings using DeepWalk and explored sparsification using randomization, thresholding & top K values.
+    - Observed a minimal impact on accuracies while showing reduction in memory usage from 24% - 68%.
+
 
 4. Studying the Impact of Sparse Embeddings on Node Classification, Clustering and Link Prediction
    - Studied the impact of sparse embeddings on node clustering, classification & prediction tasks on a Graph 
