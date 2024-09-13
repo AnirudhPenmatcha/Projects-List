@@ -10,9 +10,9 @@ Undergrad:
 Grad:
 1. Regularization and Orthogonal ML: The effect of abortion on crime rate
 2. Walmart Sales forecast
-3. Covid Data Analysis
-4. ECC Project
-5. HPGA Project
+3. ECC Project
+4. HPGA Project
 
 Personal:
 1. NNFromScratch
+2. Covid Data Analysis
