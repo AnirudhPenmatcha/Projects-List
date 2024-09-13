@@ -22,11 +22,13 @@
 3. Scalable Cloud-Based Distributed Computing for Efficient Big Data Analytics: A Dask Integration Approach
     - Created a Dask based cluster in AWS using Docker that can auto-scale and maintain persistent storage
     - Conducted a comparative analysis of XGBoost algorithm’s performance on Dask based and Vanilla based setups
-    - Observed highest reduction at 71% for parallelizing tasks using Dask integrated approach with optimal configurations
+    - Observed highest reduction at 71% for parallelizing tasks using Dask integrated approach with optimal configurations 
+   
    My Role in this Project:
-    - Studied the impact of sparse embeddings on node clustering, classification & prediction tasks on a Graph.
-    - Created embeddings using DeepWalk and explored sparsification using randomization, thresholding & top K values.
-    - Observed a minimal impact on accuracies while showing reduction in memory usage from 24% - 68%.
+    - Created a Dask based cluster in AWS using Docker that can auto-scale and maintain persistent storage.
+    - Manually setup the network configutration and shared data drive using Elastic File System (EFS).
+    - Built and deployed docker images within the Elastic Container Repository (ECR). 
+    - Initialized cluster successfully for conducting a comparative analysis of XGBoost algorithm’s performance on Dask based and Vanilla based setups.
 
 
 4. Studying the Impact of Sparse Embeddings on Node Classification, Clustering and Link Prediction
