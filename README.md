@@ -40,10 +40,10 @@
 
 ### Yazaki North America - Applied ML Intern
 
-‭- Developed complex‬‭ SQL queries ‬‭to extract & manage‬‭ data subsets with over ‬‭300,000 records ‬‭from a Data‬‭ Lakehouse.‬
-‭- Performed data cleaning, transformation, and visualization to ‬‭prepare complex datasets ‬‭for analysis.‬
-‭- Applied advanced‬‭ Clustering‬‭ and ‬‭NLP‬‭ techniques, including K-Means, DBScan, Cosine, and Gower’s similarity.‬
-‭-‬ ‭Visualized insights in‬‭ Power BI‬‭, enhancing data-driven decisions, reducing manufacturing time and costs.‬
+- Developed complex‬‭ SQL queries ‬‭to extract & manage‬‭ data subsets with over ‬‭300,000 records ‬‭from a Data‬‭ Lakehouse.‬
+- Performed data cleaning, transformation, and visualization to ‬‭prepare complex datasets ‬‭for analysis.‬
+- Applied advanced‬‭ Clustering‬‭ and ‬‭NLP‬‭ techniques, including K-Means, DBScan, Cosine, and Gower’s similarity.‬
+- ‭Visualized insights in‬‭ Power BI‬‭, enhancing data-driven decisions, reducing manufacturing time and costs.‬
 
 ### Practically - Data Science Intern
 
