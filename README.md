@@ -36,6 +36,21 @@
    
 4. Walmart Sales forecast
 
+### Internship:
+
+### Yazaki North America - Applied ML Intern
+
+‭- Developed complex‬‭ SQL queries ‬‭to extract & manage‬‭ data subsets with over ‬‭300,000 records ‬‭from a Data‬‭ Lakehouse.‬
+‭- Performed data cleaning, transformation, and visualization to ‬‭prepare complex datasets ‬‭for analysis.‬
+‭- Applied advanced‬‭ Clustering‬‭ and ‬‭NLP‬‭ techniques, including K-Means, DBScan, Cosine, and Gower’s similarity.‬
+‭-‬ ‭Visualized insights in‬‭ Power BI‬‭, enhancing data-driven decisions, reducing manufacturing time and costs.‬
+
+### Practically - Data Science Intern
+
+- Developed a pipeline to ETL questions using TensorFlow & OpenCV from a dataset of over 30,000 real test papers.
+- Achieved 15% improvement in system performance by optimizing the code and pipeline. 
+- Maintained detailed documentation and communicated progress regularly to key stakeholders.
+
 ### Personal:
 1. NNFromScratch
    - Developed shallow and deep neural networks from scratch by hardcoding the implementations.
