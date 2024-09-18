@@ -22,7 +22,7 @@
    
    My Role in this Project:
     - Created a Dask based cluster in AWS using Docker that can auto-scale and maintain persistent storage.
-    - Manually setup the network configutration and shared data drive using Elastic File System (EFS).
+    - Manually setup the network configuration and shared data drive using Elastic File System (EFS).
     - Built and deployed docker images within the Elastic Container Repository (ECR). 
     - Initialized cluster successfully for conducting a comparative analysis of XGBoost algorithm’s performance on Dask based and Vanilla based setups.
 
