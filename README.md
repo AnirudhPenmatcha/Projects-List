@@ -63,3 +63,23 @@
    - Cleaned and analyzed the Covid Data from 2020 to 2024 using MySQL
    - Visualized on Tableau by creating two dashboards forecasting and showcasing key insights of the data
 
+### Certifications:
+1. Machine Learning offered by Stanford Online
+This course involved learning many popular supervised and unsupervised machine learning algorithms such as: Linear Regression ·Logistic Regression · Neural Networks · Support Vector Machine (SVM) · k-means clustering · Principal Component Analysis · Anomaly Detection · Recommender Systems
+
+Link: https://www.coursera.org/account/accomplishments/verify/PDTW7JUYGW5W?utm_source=link
+
+2. Neural Networks and Deep Learning
+The skills acquired from this course were implementing Logistic Regression, Shallow Neural Networks and Deep Neural Networks both by hardcoding and using TensorFlow in Python. 
+
+Link: https://www.coursera.org/account/accomplishments/verify/XXG7B864ZMLX
+
+3. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+Although implementing Deep Neural Networks for small scale purposes works with not so many challenges, often when working on scale, there can be many challenges with optimization, overfitting, uncertainity over which hyperparameters to tweak and so on. This course has equipped me with the knowledge to tackle these scenarios in a more methodical manner.
+
+Link: https://www.coursera.org/account/accomplishments/verify/RDGVQ94FHLR6?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
+
+4. Structuring Machine Learning Projects
+From this course, I have learned various techniques with regards to planning and building Machine Learning Projects efficiently with techniques such as Evaluation Metrics · Train/Dev/Test Distributions · Human Level Performance · Error Analysis · Transfer Learning · Multi-task Learning · End-to-end Deep Learning · 
+
+Link: https://www.coursera.org/account/accomplishments/verify/5YJGZN22U38W?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
