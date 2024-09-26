@@ -38,6 +38,11 @@
 
 ### Internship:
 
+### Yazaki North America - Data Scientist - Coop
+
+- Developing SQL views of NLP techniques for a production-ready use solution.
+- Create a data pipeline on Azure that runs overnight and gets fed into the PowerBI interface for end users.
+
 ### Yazaki North America - Applied ML Intern
 
 - Developed complex‬‭ SQL queries ‬‭to extract & manage‬‭ data subsets with over ‬‭300,000 records ‬‭from a Data‬‭ Lakehouse.‬
