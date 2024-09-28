@@ -64,7 +64,7 @@
 ### Personal:
 1. NNFromScratch
    - Developed shallow and deep neural networks from scratch by hardcoding the implementations.
-   - Applied IRIS dataset and _____ dataset to shallow NN and deep NN for model training and evaluation respectively.
+   - Applied IRIS dataset and MNIST dataset to shallow NN and deep NN for model training and evaluation respectively.
    - Experimented with various optimization techniques, enhancing model performance.
    - Conducted post-training analysis, investigating the impact of hyperparameter adjustments on model behavior.
    - Re-implemented the same neural network architectures in PyTorch for comparison and further experimentation.
