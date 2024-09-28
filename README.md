@@ -9,11 +9,16 @@
    - Robot Arm
      - Coordinated a team of 11 in building a wireless robotic arm that can perform intricate operations
      - Developed an Arduino-based system that enabled wireless control of a robotic arm through the use of a wearable gloveequipped with flex and gyroscope sensors
+   
    - Arrow Detection
+     
    - Obstacle avoidance simulation
      
-2. Final Project
-
+2. Final Project - Intelligent Traffic Flow using Machine Learning
+   - Built an intelligent traffic management system using OpenCV and YOLO for real-time vehicle detection.
+   - Developed a Python-based timer signal algorithm to manage congestion and prioritize emergency vehicles.
+   - Combined all components using live camera feeds to automate traffic flow and reduce delays in high-density areas
+     
 ### Grad:
 1. Scalable Cloud-Based Distributed Computing for Efficient Big Data Analytics: A Dask Integration Approach
     - Created a Dask based cluster in AWS using Docker that can auto-scale and maintain persistent storage
