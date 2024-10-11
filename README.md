@@ -2,9 +2,9 @@
 
 ### Undergrad:
 1. RUDRA
-   - Built object detection, autonomous navigation and intersystem communications using Python, TensorFlow & ROS
-   - Created a Gazebo simulation to evaluate traversal algorithms, alongside the development of AR tag detection
-   - Secured 3rd place in the Indian Rover Challenge Competition
+   - Built object detection, autonomous navigation and intersystem communications using Python, TensorFlow & ROS.
+   - Created a Gazebo simulation to evaluate traversal algorithms, alongside the development of AR tag detection.
+   - Secured 3rd place in the Indian Rover Challenge Competition.
   
    - Robot Arm
      - Coordinated a team of 11 in building a wireless robotic arm that can perform intricate operations
