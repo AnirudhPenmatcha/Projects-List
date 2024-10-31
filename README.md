@@ -45,8 +45,8 @@
 
 ### Yazaki North America - Data Scientist - Coop
 
-- Developing SQL views of NLP techniques for a production-ready use solution.
-- Create a data pipeline on Azure that runs overnight and gets fed into the PowerBI interface for end users.
+- Developing SQL fact tables that make use of NLP techniques to show a list of similar wire harness components.
+- Building a data pipeline on Azure that runs overnight and gets fed into the PowerBI interface for end users.
 
 ### Yazaki North America - Applied ML Intern
 
